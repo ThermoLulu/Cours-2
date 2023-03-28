@@ -1,6 +1,28 @@
 p { color: #005C53; }
 p {font-family: "Roboto"; }
-p {font-weight: bold ;}
-H1 {font-family: 'Alkatra', cursive; }
-H1 {font-weight: bold ;}
+p {font-weight: lighter ;}
+H1 {font-family: 'Delicious Handrawn', cursive; }
+H1 {font-weight: 1200 ;}
 H1 { color: #0FC2C0; }
+
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
